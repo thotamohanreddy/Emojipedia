@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Emojipedia-React/static/css/main.f13aee93.css",
+    "main.js": "/Emojipedia-React/static/js/main.046b2a9b.js",
+    "static/js/787.c8c0b223.chunk.js": "/Emojipedia-React/static/js/787.c8c0b223.chunk.js",
+    "index.html": "/Emojipedia-React/index.html",
+    "main.f13aee93.css.map": "/Emojipedia-React/static/css/main.f13aee93.css.map",
+    "main.046b2a9b.js.map": "/Emojipedia-React/static/js/main.046b2a9b.js.map",
+    "787.c8c0b223.chunk.js.map": "/Emojipedia-React/static/js/787.c8c0b223.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f13aee93.css",
+    "static/js/main.046b2a9b.js"
+  ]
+}
